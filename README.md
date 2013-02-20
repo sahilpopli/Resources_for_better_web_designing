@@ -6,18 +6,21 @@ Describing Some important resources for better Web Designing containing recource
 
 
 It contains Web links for 
-        Learning HTML5
-        Learning CSS3
-        Code Gerators HTML5 & CSS3
-        Shorthand For HTML5 & CSS3
-        Learning ABC of Responsive Web Design
-        Resources for Responsive Design 
-        Famous Frameworks To use in Your Projects
-        Some Javascript Stuff
-        Wireframing
-        Which Sites to Follow
+        Learning HTML5, 
+        Learning CSS3, 
+        Code Gerators HTML5 & CSS3, 
+        Shorthand For HTML5 & CSS3, 
+        Learning ABC of Responsive Web Design, 
+        Resources for Responsive Design, 
+        Famous Frameworks To use in Your Projects, 
+        Some Javascript Stuff, 
+        Wireframing, 
+        Which Sites to Follow, 
         Online editors  and
-        LOTS MORE 
+        LOTS MORE.
+        
+        
+        
 
 
 
